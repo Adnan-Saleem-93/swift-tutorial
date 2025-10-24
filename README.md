@@ -1,2 +1,2 @@
 # Day 1:
-- created basics.swift file in Xcode.
+- created "swift-crash-course" workspace and added variables.playground file to learn the concepts of variables in Swift
